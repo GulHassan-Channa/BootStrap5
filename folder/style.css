@@ -1,0 +1,23 @@
+/* .background-image{
+      style="
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-01.jpg) ; height: 320px;">
+} */
+.textme{
+
+        padding-top: 95px;
+        padding-left: 800px;
+}
+.foot{
+        background-color: rgb(179, 179, 179);
+}
+strong{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.background{
+        text-align: center;
+        width: 100%;
+        line-height: 150px;
+        background-image: url(https://img.freepik.com/free-vector/white-elegant-texture-background_23-2148445782.jpg?w=2000);
+}
